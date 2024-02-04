@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Dange</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java full stack**
+- 🌱 I’m currently learning **MERN full stack**
 
 - 📫 How to reach me **abhaydange89@gmail.com** or **dangeap19.civil@coeptech.ac.in**
 
