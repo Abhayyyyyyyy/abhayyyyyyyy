@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java full stack**
 
-- 📫 How to reach me **abhaydange89@gmail.com**
+- 📫 How to reach me **abhaydange89@gmail.com** or **dangeap19.civil@coeptech.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
